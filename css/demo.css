@@ -1,0 +1,59 @@
+a {
+ text-decoration: none;
+ -webkit-transition: all 200ms ease-in-out;
+ -moz-transition: all 200ms ease-in-out;
+ -ms-transition: all 200ms ease-in-out;
+ -o-transition: all 200ms ease-in-out;
+ transition: all 200ms ease-in-out;
+ }
+
+#xop-about {
+ padding: 60px 0;
+ background: #3498DB;
+ text-align: center;
+ color: #fff;
+ font-family: 'Source Sans Pro', sans-serif;
+ font-size: 1.6rem;
+ line-height: 1.3;
+ text-rendering: optimizeLegibility;
+ }
+
+.xop-container {
+ max-width: 85%;
+ width: 960px;
+ margin: 0 auto;
+ }
+
+.xop-heading {
+ margin: 0;
+ font-size: 2.6rem;
+ font-weight: 700;
+ padding-bottom: 2rem;
+ letter-spacing: 0.08rem;
+ }
+
+ .xop-text {
+ margin-bottom: 20px;
+ font-size: 2rem;
+ line-height: 1.5;
+ font-weight: 400;
+ letter-spacing: 0.08rem;
+ }
+
+ .xop-more {
+ display: block;
+ margin: 2rem 0 0;
+ color: #19669A;
+ font-weight: 700;
+ font-size: 2rem;
+ }
+
+ .xop-more:hover {
+ color: #fff;
+ }
+
+.xop-more::after { 
+content: "\f061"; 
+font-family: FontAwesome; 
+padding-left: 10px; 
+}
