@@ -1,7 +1,7 @@
 # ResponsiveSection
 XO PIXEL Responsive Full-Width Section Tutorial
-[Read the article]() on XO PIXEL
-[View the demo]()
+[Read the article](http://xopixel.com/responsive-full-width-section-html5-css3/) on XO PIXEL
+[View the demo](http://xopixel.com/demo/Responsive%20Full-Width%20Section/)
 
 ## License
 Read the License & Terms of Use [here](http://xopixel.com/terms-licensing/)
