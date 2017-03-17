@@ -4,7 +4,7 @@ XO PIXEL Responsive Full-Width Section Tutorial
 [View the demo](http://xopixel.com/demo/Responsive%20Full-Width%20Section/)
 
 ## License
-Read the License & Terms of Use [here](http://xopixel.com/terms-licensing/)
+Read the License & Terms of Use [here](http://xopixel.com/terms-of-use/)
 
 ## Credits
 - Icons by [Font Awesome](http://fontawesome.io/)
